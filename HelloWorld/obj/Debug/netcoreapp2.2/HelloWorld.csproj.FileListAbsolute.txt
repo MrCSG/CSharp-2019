@@ -9,3 +9,14 @@ C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2
 C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
 C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
 C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\CursoNetCoreUTN\CSharp-2019\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
