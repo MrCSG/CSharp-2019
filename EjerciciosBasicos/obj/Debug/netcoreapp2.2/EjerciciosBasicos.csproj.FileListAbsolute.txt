@@ -1,0 +1,11 @@
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.deps.json
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.runtimeconfig.json
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.runtimeconfig.dev.json
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.dll
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.pdb
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.csprojAssemblyReference.cache
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.csproj.CoreCompileInputs.cache
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.AssemblyInfoInputs.cache
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.AssemblyInfo.cs
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.dll
+C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.pdb
