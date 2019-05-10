@@ -20,6 +20,10 @@ namespace EjerciciosBasicos
                     Ejercicio2 sum = new Ejercicio2();
                     sum.Addition();
                     break;
+                case "3":
+                    Ejercicio3 div = new Ejercicio3();
+                    div.Division();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
