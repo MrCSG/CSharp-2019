@@ -32,11 +32,19 @@ namespace EjerciciosBasicos
                     Ejercicio5 swap = new Ejercicio5();
                     swap.SwapNumbers();
                     break;
+                case "6":
+                    Ejercicio6 mult = new Ejercicio6();
+                    mult.Multiply3Numbers();
+                    break;
+                case "7":
+                    Ejercicio7 oper5 = new Ejercicio7();
+                    oper5.Operations5();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
             }
-            
+
             Console.Write("Presione ENTER para salir...");
             Console.ReadLine();
         }

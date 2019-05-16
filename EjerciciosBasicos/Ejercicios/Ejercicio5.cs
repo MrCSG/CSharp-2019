@@ -24,7 +24,7 @@ namespace EjerciciosBasicos
                     aux = firstNumber;
                     firstNumber = secondNumber;
                     secondNumber = aux;
-                    Console.WriteLine($"Primer número: {firstNumber}\nSegundo número: {secondNumber}");
+                    Console.WriteLine($"Cambiando posición de números...\nPrimer número: {firstNumber}\nSegundo número: {secondNumber}");
                 }
                 else
                 {

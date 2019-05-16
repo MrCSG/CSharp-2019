@@ -68,6 +68,7 @@ namespace EjerciciosBasicos
                     Console.WriteLine($"{u} + {v} / {w} * {x} - {y} % {z} = {u+v/w*x-y%z}");
                     break;
                 default:
+                    Console.WriteLine("La opción ingresada no existe.");
                     break;
             }
         }
