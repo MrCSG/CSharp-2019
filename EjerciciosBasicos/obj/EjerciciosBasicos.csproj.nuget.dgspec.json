@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursoNetCoreUTN\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj": {}
+    "C:\\Users\\Java\\CSGimenezCursoNetCore\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj": {}
   },
   "projects": {
-    "C:\\CursoNetCoreUTN\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj": {
+    "C:\\Users\\Java\\CSGimenezCursoNetCore\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursoNetCoreUTN\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj",
+        "projectUniqueName": "C:\\Users\\Java\\CSGimenezCursoNetCore\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj",
         "projectName": "EjerciciosBasicos",
-        "projectPath": "C:\\CursoNetCoreUTN\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj",
-        "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\CursoNetCoreUTN\\CSharp-2019\\EjerciciosBasicos\\obj\\",
+        "projectPath": "C:\\Users\\Java\\CSGimenezCursoNetCore\\CSharp-2019\\EjerciciosBasicos\\EjerciciosBasicos.csproj",
+        "packagesPath": "C:\\Users\\Java\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Java\\CSGimenezCursoNetCore\\CSharp-2019\\EjerciciosBasicos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Java\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

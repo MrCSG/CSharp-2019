@@ -24,10 +24,10 @@ namespace EjerciciosBasicos
                     Ejercicio3 div = new Ejercicio3();
                     div.Division();
                     break;
-                /*case "4":
+                case "4":
                     Ejercicio4 oper = new Ejercicio4();
                     oper.Operations();
-                    break;*/
+                    break;
                 case "5":
                     Ejercicio5 swap = new Ejercicio5();
                     swap.SwapNumbers();

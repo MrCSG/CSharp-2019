@@ -9,3 +9,14 @@ C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\Ejercic
 C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.AssemblyInfo.cs
 C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.dll
 C:\CursoNetCoreUTN\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.pdb
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.deps.json
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.runtimeconfig.json
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.runtimeconfig.dev.json
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.dll
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\bin\Debug\netcoreapp2.2\EjerciciosBasicos.pdb
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.csprojAssemblyReference.cache
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.AssemblyInfoInputs.cache
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.AssemblyInfo.cs
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.dll
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\EjerciciosBasicos\obj\Debug\netcoreapp2.2\EjerciciosBasicos.pdb
