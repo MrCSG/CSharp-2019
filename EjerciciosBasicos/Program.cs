@@ -64,6 +64,10 @@ namespace EjerciciosBasicos
                     Ejercicio13 rect35 = new Ejercicio13();
                     rect35.Rectangle35();
                     break;
+                case "14":
+                    Ejercicio14 degree = new Ejercicio14();
+                    degree.DegreeConverter();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
