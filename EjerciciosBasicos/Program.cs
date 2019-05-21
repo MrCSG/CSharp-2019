@@ -48,6 +48,22 @@ namespace EjerciciosBasicos
                     Ejercicio9 avrg = new Ejercicio9();
                     avrg.Average();
                     break;
+                case "10":
+                    Ejercicio10 multTest = new Ejercicio10();
+                    multTest.MultiplicationTest();
+                    break;
+                case "11":
+                    Ejercicio11 old = new Ejercicio11();
+                    old.YouLookOlder();
+                    break;
+                case "12":
+                    Ejercicio12 writeTest = new Ejercicio12();
+                    writeTest.WriteTest();
+                    break;
+                case "13":
+                    Ejercicio13 rect35 = new Ejercicio13();
+                    rect35.Rectangle35();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
