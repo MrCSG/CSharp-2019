@@ -40,6 +40,14 @@ namespace EjerciciosBasicos
                     Ejercicio7 oper5 = new Ejercicio7();
                     oper5.Operations5();
                     break;
+                case "8":
+                    Ejercicio8 multTable = new Ejercicio8();
+                    multTable.MultiplicationTable();
+                    break;
+                case "9":
+                    Ejercicio9 avrg = new Ejercicio9();
+                    avrg.Average();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
