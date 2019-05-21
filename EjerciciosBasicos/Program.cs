@@ -68,6 +68,10 @@ namespace EjerciciosBasicos
                     Ejercicio14 degree = new Ejercicio14();
                     degree.DegreeConverter();
                     break;
+                case "15":
+                    Ejercicio15 remChar = new Ejercicio15();
+                    remChar.RemoveChars();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
