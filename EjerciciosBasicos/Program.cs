@@ -72,6 +72,10 @@ namespace EjerciciosBasicos
                     Ejercicio15 remChar = new Ejercicio15();
                     remChar.RemoveChars();
                     break;
+                case "16":
+                    Ejercicio16 swapChar = new Ejercicio16();
+                    swapChar.SwapFirstChar();
+                    break;
                 default:
                     Console.WriteLine("Esa opción no existe.");
                     break;
