@@ -1,0 +1,11 @@
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\obj\Debug\netcoreapp2.2\Objetos.csprojAssemblyReference.cache
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\obj\Debug\netcoreapp2.2\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\obj\Debug\netcoreapp2.2\Objetos.AssemblyInfoInputs.cache
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\obj\Debug\netcoreapp2.2\Objetos.AssemblyInfo.cs
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\bin\Debug\netcoreapp2.2\Objetos.deps.json
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\bin\Debug\netcoreapp2.2\Objetos.runtimeconfig.json
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\bin\Debug\netcoreapp2.2\Objetos.runtimeconfig.dev.json
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\bin\Debug\netcoreapp2.2\Objetos.dll
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\bin\Debug\netcoreapp2.2\Objetos.pdb
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\obj\Debug\netcoreapp2.2\Objetos.dll
+C:\Users\Java\CSGimenezCursoNetCore\CSharp-2019\Objetos\obj\Debug\netcoreapp2.2\Objetos.pdb
